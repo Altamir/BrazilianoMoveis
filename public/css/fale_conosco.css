@@ -1,0 +1,33 @@
+#formulario{
+	background-color: white;
+border: 1px solid red;
+ position: relative;
+ height:75%;
+width:40%;
+left: 20px;
+  right:20px;
+
+  margin: 1% 1% 1% 1%;
+}
+div [id="formulario"] label[id="nome"]{position: absolute; top: 15%; left: 15%;}
+div [id="formulario"] input[id="nome"]{position: absolute; top: 15%; left: 33%;}
+div [id="formulario"] label[id="email"]{position: absolute; top: 30%; left: 15%;}
+div [id="formulario"] input[id="email"]{position: absolute; top: 30%; left: 33%;}
+div [id="formulario"] label[id="telefone"]{position: absolute; top: 45%; left: 15%;}
+div [id="formulario"] input[id="telefone"]{position: absolute; top: 45%; left: 33%;}
+div [id="formulario"] label[id="texto"]{position: absolute; top: 60%; left: 15%;}
+div [id="formulario"] textarea[id="texto"]{position: absolute; top: 60%; left: 33%;}
+div [id="formulario"] button{position: absolute; top: 80%; left: 15%;}
+
+
+
+#endereco{
+	background-color: white;
+border: 1px solid red;
+ position: absolute;
+ height:45%;
+width:30%;
+left: 50%;
+top: 35%;
+  margin: 1% 1% 1% 1%;
+}

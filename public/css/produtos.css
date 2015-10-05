@@ -1,0 +1,139 @@
+
+
+div[id="p1"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+ position: absolute;
+  top: 2%;
+  left: 2%;
+border: 2px solid #ab0800;
+}
+div [id="p1"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p1"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p1"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p1"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p1"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="p2"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 2%;
+  left: 26%;
+   right:20px;
+border: 2px solid #ab0800;
+}
+div [id="p2"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p2"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p2"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p2"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p2"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="p3"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 2%;
+  left: 50%;
+  border: 2px solid #ab0800;
+}
+div [id="p3"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p3"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p3"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p3"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p3"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="p4"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+ position: absolute;
+  top: 2%;
+  left: 74%;
+border: 2px solid #ab0800;
+}
+div [id="p4"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p4"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p4"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p4"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p4"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="p5"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 2%;
+  border: 2px solid #ab0800;
+}
+div [id="p5"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p5"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p5"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p5"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p5"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="p6"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 26%;
+  border: 2px solid #ab0800;
+}
+div [id="p6"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p6"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p6"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p6"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p6"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="p7"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 2px solid #ab0800;
+}
+div [id="p7"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p7"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p7"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p7"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p7"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="p8"]{
+background-color: #ffffbf;
+height:30%;
+width:20%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 74%;
+  border: 2px solid #ab0800;
+}
+div [id="p8"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="p8"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="p8"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="p8"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="p8"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+#rodapé{
+  position:fixed;
+
+  bottom:0px;
+}

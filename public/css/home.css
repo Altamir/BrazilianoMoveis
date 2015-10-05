@@ -1,0 +1,143 @@
+
+#menu{ position: absolute;
+ top:25%;}
+#menu ul li {
+ display: inline; 
+
+ }
+
+#menu ul li a:link {
+	color: red;
+	text-decoration: none;
+	margin-left:5px;
+	font-size: 18;
+	font-family: Arial;
+}
+
+#menu ul li a:visited {
+	color: red;
+}	
+
+#menu ul li a:hover {
+	color: red;
+	
+	}
+
+
+#anuncios{
+background-color: white;
+border: 1px solid red;
+ position: relative;
+ height:65%;
+width:90%;
+left: 20px;
+  right:20px;
+
+  margin: 1% 1% 1% 1%;
+}
+
+div[id="d1"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+ position: absolute;
+  top: 2%;
+  left: 1%;
+border: 2px solid #ab0800;
+}
+div [id="d1"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d1"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d1"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d1"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d1"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="d2"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 2%;
+  left: 34%;
+   right:20px;
+border: 2px solid #ab0800;
+}
+div [id="d2"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d2"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d2"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d2"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d2"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="d3"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 2%;
+  left: 67%;
+  border: 2px solid #ab0800;
+}
+div [id="d3"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d3"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d3"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d3"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d3"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+
+div[id="d4"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 1%;
+  border: 2px solid #ab0800;
+}
+div [id="d4"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d4"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d4"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d4"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d4"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="d5"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 34%;
+  border: 2px solid #ab0800;
+}
+div [id="d5"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d5"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d5"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d5"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d5"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+div[id="d6"]{
+background-color: #ffffbf;
+height:40%;
+width:25%;
+margin:3% 3% 3% 3%;
+position: absolute;
+  top: 50%;
+  left: 67%;
+  border: 2px solid #ab0800;
+}
+div [id="d6"] p[id="a"]{position: absolute; top: -3%; left: 60%;}
+div [id="d6"] p[id="b"]{position: absolute; top: 10%; left: 60%;}
+div [id="d6"] p[id="c"]{position: absolute; top: 32%; left: 60%;}
+div [id="d6"] p[id="d"]{position: absolute; top: 57%;left: 60%;}
+div [id="d6"] p[id="e"]{position: absolute; top: 55%;left: 5%;}
+
+#rodapé{
+  position:fixed;
+
+  bottom:0px;
+}

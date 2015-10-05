@@ -1,0 +1,22 @@
+#texto{
+	background-color: white;
+border: 1px solid red;
+ position: relative;
+ height:75%;
+width:40%;
+left: 20px;
+  right:20px;
+
+  margin: 1% 1% 1% 1%;
+}
+
+#fotos{
+	background-color: white;
+border: 1px solid red;
+ position: absolute;
+ height:45%;
+width:30%;
+left: 50%;
+top: 35%;
+  margin: 1% 1% 1% 1%;
+}
