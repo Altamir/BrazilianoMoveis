@@ -1,7 +1,7 @@
 <html lang="pt-br">
 <head>
     <title>Brasiliano</title>
-    <link rel="stylesheet" href="css/home.css">
+    @yield('css_pag')
 </head>
 <body>
 <div id="container">

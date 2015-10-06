@@ -1,5 +1,5 @@
 <html>
-	<head>	
+	<head>
 		<title>Quem Somos</title>
 		<link rel="stylesheet" href="css/home.css">
 		<link rel="stylesheet" href="css/quem_somos.css">
@@ -58,14 +58,14 @@
 				<div id="fotos">
 					<img src="equipe.jpg" alt="Rodape">
 				</div>
-		
-		
-		
+
+
+
 			</div >
 			<div id="rodape">
 			<img src="barra.jpg" alt="Rodape">
 			</div >
-			
+
 		</div >
 	</body>
 </html>

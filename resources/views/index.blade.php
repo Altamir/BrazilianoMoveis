@@ -1,6 +1,11 @@
 @extends('layout.padrao')
 
+@section('css_pag')
+    <link rel="stylesheet" href="css/home.css">
+    @stop
+
 @section('content')
+
     <div id="anuncios">
         <div id="d1">
             <img src="rack-tv-horus.jpg" width="45%" height="60%" alt="img">
@@ -51,4 +56,5 @@
             <p id="e">Medidas</p>
         </div>
     </div>
-@stop
+
+    @stop
