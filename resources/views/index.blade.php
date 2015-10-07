@@ -2,7 +2,7 @@
 
 @section('css_pag')
     <link rel="stylesheet" href="css/home.css">
-    @stop
+    @endsection
 
 @section('content')
 
@@ -57,4 +57,4 @@
         </div>
     </div>
 
-    @stop
+@endsection
