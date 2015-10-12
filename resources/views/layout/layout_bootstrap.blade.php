@@ -19,6 +19,7 @@
 </head>
 <body>
 <div class="container">
+    @include('layout.menu.topo')
     @yield('content')
 </div>
 
