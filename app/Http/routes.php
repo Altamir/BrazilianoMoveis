@@ -34,3 +34,7 @@ Route::get('quem-somos',function(){
 Route::get('produtos',function(){
     return view('produtos');
 });
+
+Route::get('teste',function(){
+    return view('layout.layout_bootstrap');
+});
