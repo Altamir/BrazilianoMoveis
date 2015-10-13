@@ -30,7 +30,7 @@
         </div>
         <div class="col-xs-12 col-md-6">
             <div>
-                <img class="img-responsive" src="mapa.jpg" alt="Mapa">
+                <img class="img-responsive" src="{{asset('imagens/mapa.jpg')}}" alt="Mapa">
                 <address>
                     <p>Assis Brasil, n°:2112, Passo da Areia</p>
                 </address>
